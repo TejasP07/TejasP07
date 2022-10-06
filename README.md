@@ -1,10 +1,9 @@
 
-<img width="100%" src="https://raw.githubusercontent.com/pmbechard/pmbechard/main/github_banner.png" alt="Peyton Bechard">
 
 <br>
 <h2 align="center">Introduction</h2>
 
-My name is Peyton Bechard and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+My name is Tejas Pawar and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 <br>
 <div align="center">
