@@ -27,7 +27,7 @@ My name is Tejas Pawar and I am a self-taught developer with about 2 years of ex
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmbechard&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasP07&theme=blue-green">
 </div>
 <br>
 
