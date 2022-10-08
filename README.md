@@ -13,7 +13,6 @@ My name is Tejas Pawar and I am a self-taught developer with about 2 years of ex
 
 - 🔭 I’m currently working on expanding my knowledge of full-stack web development.
 - 🌱 I’m currently learning advanced Javascript leading into more about Node.js and then React.
-- 💬 Ask me about my experience teaching CS in China and working as a tour manager in North Korea!
 - ⚡ Fun fact: I'm also a synthesizer enthusiast and try to make at least one short track every day.
 
 
