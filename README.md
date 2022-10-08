@@ -1,7 +1,7 @@
 
 
 <br>
-<h2 align="center">Introduction</h2>
+<h1 align="center">Hi 👋, I'm Tejas Pawar</h1>
 
 My name is Tejas Pawar and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
