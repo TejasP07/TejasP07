@@ -36,7 +36,7 @@ My name is Tejas Pawar and I am a self-taught developer with about 2 years of ex
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tejas-pawar7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <p align="left"> <a href="https://twitter.com/tejasvpawar" target="blank"><img src="https://img.shields.io/twitter/follow/Tejas Pawar ?logo=twitter&style=for-the-badge" alt="TejasP07" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/tejasvpawar" target="blank"><img src="https://img.shields.io/twitter/follow/tejasvpawar?logo=twitter&style=for-the-badge" alt="TejasP07" /></a> </p>
   <a href="https://www.instagram.com/teja__.7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
