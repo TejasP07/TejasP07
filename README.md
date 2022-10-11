@@ -3,6 +3,8 @@
 <br>
 <h1 align="center">Hi 👋, I'm Tejas Pawar</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TejasP07&label=Profile%20views&color=0e75b6&style=flat" alt="TejasP07" /> </p>
+
 My name is Tejas Pawar and I am a self-taught developer with about 2 years of experience. I'm currently looking to make the transition from CS education to a software developer role. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 <br>
@@ -34,5 +36,6 @@ My name is Tejas Pawar and I am a self-taught developer with about 2 years of ex
 <h2 align="center">Feel free to reach out using the links below. Thanks for visiting!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/tejas-pawar7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/tejasvpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TejasP07" height="30" width="40" /></a>
   <a href="https://www.instagram.com/teja__.7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
